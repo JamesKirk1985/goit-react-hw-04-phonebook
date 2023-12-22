@@ -6,7 +6,7 @@ export const App = () => {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 38,
+        fontSize: 40,
         color: '#010101'
       }}
     >
